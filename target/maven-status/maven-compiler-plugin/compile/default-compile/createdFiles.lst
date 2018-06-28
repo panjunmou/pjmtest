@@ -1,0 +1,10 @@
+com\kedacom\pjmtest\dao\mybatis\BaseMapper.class
+com\kedacom\pjmtest\webservice\WebServiceClient.class
+com\kedacom\pjmtest\vo\OrgTreeVo.class
+com\kedacom\pjmtest\exception\BaseNestedException.class
+com\kedacom\pjmtest\controller\LoginController.class
+com\kedacom\pjmtest\exception\BusinessRuntimeException.class
+com\kedacom\pjmtest\exception\BusinessException.class
+com\kedacom\pjmtest\controller\MainController.class
+com\kedacom\pjmtest\model\IdEntity.class
+com\kedacom\pjmtest\vo\TreeVo.class
